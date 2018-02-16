@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayanit1/restaurant-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayanit1/restaurant-service/issues"
+  },
+  "homepage": "https://github.com/ayanit1/restaurant-service#readme"
+}
